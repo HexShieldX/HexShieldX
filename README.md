@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'M ARSHMAN
+🎯 A passionate Cyber Security StudenT from Pakistan
 
-<!--
-**HexShieldX/HexShieldX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Exploring the fusion of design, security, and innovation 
+🌱 Always learning, always evolving
+💡 Open to meaningful collaborations and exciting projects
+📫 Reach me at: arshmanabbas512@gmail.com
 
-Here are some ideas to get you started:
+🌐 Connect with me
+www.linkedin.com/in/arshman-abbas-89a95732a
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Languages & Tools
+C++,PYTHON,SPLUNK,ELK
+
+
+
+
+
+
