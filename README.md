@@ -1,13 +1,9 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="150"/>
-</p>
-
 <h1 align="center">👋 Hi, I'm <span style="color:#00d8ff">Arshman Abbas</span></h1>
 <p align="center">
   🎯 Cybersecurity Student | Tech Enthusiast | Problem Solver
 </p>
 <p align="center">
-  🌱 Always learning & evolving | 💡 Passionate about design & security
+  🌱 Always learning & evolving | 💡 Passionate about SOC and Cloud security
 </p>
 
 ---
@@ -34,9 +30,9 @@
 | Project | Description |
 |---------|-------------|
 | **RSA File Encryption/Decryption** | Real-world encryption simulation in Assembly |
-| **Bootloader Authentication System** | Secure password with login attempt logging |
-| **Malware Detection Simulation** | File monitoring & threat intelligence |
-| **SilentGuard & ShadowWall** | Security & integrity monitoring systems |
+| **Sysmon Simulation (C++)** | System monitoring & event logging simulation in C++ |
+| **Malware Detection Simulation** | File monitoring & threat intelligence dashboard |
+| **File Integrity Checker (ShadowWall)** | Detect file tampering & maintain integrity logs |
 
 ---
 
