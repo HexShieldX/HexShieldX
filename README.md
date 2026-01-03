@@ -33,6 +33,7 @@
 | **Sysmon Simulation (C++)** | System monitoring & event logging simulation in C++ |
 | **Malware Detection Simulation** | File monitoring & threat intelligence dashboard |
 | **File Integrity Checker (ShadowWall)** | Detect file tampering & maintain integrity logs |
+| **BANK NETWORK DESIGN** | A real world banking design using cisco packet tracer|
 
 ---
 
