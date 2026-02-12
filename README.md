@@ -1,69 +1,68 @@
 <h1 align="center">Arshman Abbas</h1>
 <p align="center">
-  Cybersecurity Undergraduate | SOC & Cloud Security Enthusiast | Future GRC Professional
+  🛡️ Cybersecurity Analyst (In Progress) | SOC • Cloud Security • GRC
 </p>
 
 <p align="center">
-  Risk • Detection Engineering • Security Monitoring • Governance
+  Security Monitoring • Risk Governance • Threat Detection • ISO 27001 Alignment
 </p>
 
 ---
 
-## Professional Summary
+## 🔎 Professional Profile
 
-Cybersecurity undergraduate with hands-on experience in security monitoring, threat detection, and log analysis. 
-Strong interest in Governance, Risk & Compliance (GRC), Cloud Security, and Security Operations (SOC).
+Cybersecurity undergraduate developing practical expertise in security monitoring, threat detection, and governance-driven risk management.
 
-Skilled in analyzing security events, identifying potential threats, and understanding risk from both 
-technical and governance perspectives. Passionate about building secure systems aligned with 
-industry standards such as ISO/IEC 27001 and modern cloud security frameworks.
+Experienced in working with SIEM tools, log analysis, and host-based monitoring systems to identify anomalies and security events. Strong focus on aligning technical controls with industry frameworks such as ISO/IEC 27001:2022 and modern cloud security practices.
 
----
-
-## Technical Competencies
-
-### Security & Monitoring
-- SIEM: Splunk, ELK Stack
-- Host Monitoring: Wazuh, Sysmon
-- Log Analysis & Threat Detection
-- Basic Incident Response Workflow
-
-### Governance & Risk
-- Risk Assessment & Risk Register Development
-- Control Mapping & Gap Analysis
-- ISO/IEC 27001:2022 Fundamentals
-- Vendor Risk & Security Documentation
-
-### Programming & Technical Skills
-- C++
-- Python
-- Assembly (Low-level security concepts)
-- Network Fundamentals
+Building a career at the intersection of **Security Operations and Governance, Risk & Compliance**, combining analytical thinking with structured risk-based decision making.
 
 ---
 
-## Certifications & Learning
+## 🛠️ Core Competencies
 
-- Google Cybersecurity Professional Certificate
-- Ethical Hacking Essentials
-- Actively exploring Cloud Security & Microsoft Security Stack
+### 🧠 Security Operations & Monitoring
+- SIEM Analysis: Splunk, ELK Stack  
+- Endpoint Monitoring: Wazuh, Sysmon  
+- Log Correlation & Threat Identification  
+- Incident Investigation Fundamentals  
+
+### 📊 Governance, Risk & Compliance
+- Risk Assessment & Risk Register Development  
+- Control Mapping & Gap Analysis  
+- ISO/IEC 27001:2022 Concepts  
+- Vendor Risk Evaluation & Documentation  
+
+### 💻 Technical Foundation
+- C++ (Security-Focused Projects)  
+- Python (Automation & Log Handling)  
+- Assembly (Low-Level Security Concepts)  
+- Network & System Fundamentals  
 
 ---
 
-## Professional Focus
+## 🎓 Certifications
 
-- Security Operations Center (SOC)
-- Cloud Security Governance
-- Risk Management & Compliance
-- Threat Detection & Monitoring Engineering
+- Google Cybersecurity Professional Certificate  
+- Ethical Hacking Essentials  
 
 ---
 
-## Contact
+## 🎯 Professional Objective
 
-Email: arshmanabbas512@gmail.com  
-LinkedIn: https://www.linkedin.com/in/arshman-abbas-89a95732a
+Seeking opportunities in:
+- Security Operations Center (SOC)  
+- Cloud Security Monitoring  
+- Governance, Risk & Compliance (GRC)  
 
+Focused on contributing to teams that value structured security processes, proactive monitoring, and risk-based security decision making.
+
+---
+
+## 📫 Contact
+
+📧 arshmanabbas512@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/arshman-abbas-89a95732a
 
 
 
